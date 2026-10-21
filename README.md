@@ -7,7 +7,7 @@
 
 `root@hisrootness:~#`
 
-**Computer Science · Machine Learning · Systems · Economics**
+**Computer Science · Machine Learning · Systems Engineering**
 
 [GitHub](https://github.com/hisrootness) · [LinkedIn](https://www.linkedin.com/in/azamat-hojiakbarov-a32413394) · [Kaggle](https://www.kaggle.com/azamath1) · [LeetCode](https://leetcode.com/u/AbleTech/) · [Telegram](https://t.me/Python_Able)
 
@@ -19,7 +19,7 @@
 
 I work with Python, machine learning, data science, and software engineering. I also care about what happens beneath the abstractions: algorithms, operating systems, programming languages, computer architecture, and the people who made today's computing possible.
 
-I am also interested in economics, especially how incentives, constraints, and trade-offs influence complex systems.
+I value independent judgment, thoughtful technical decisions, and the responsibility that comes with building and maintaining systems others rely on.
 
 **The title is a joke. The respect for the craft isn't.**
 
@@ -91,14 +91,14 @@ Reusable integration and automation experiments using APIs, webhooks, and n8n.
 | **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
 | **Systems and foundations** | Linux / Unix, C, Assembly, algorithms, computer architecture, operating systems |
 | **Engineering** | Git, Docker, testing, CI, deployment, reproducibility |
-| **Beyond software** | Economics, history of computing, engineering history |
+| **Beyond the code** | History of computing, engineering heritage, technical decision-making |
 
 ## Current direction
 
 - Deepen my work in machine learning and computer science, including model architecture and training fundamentals.
 - Build and document practical software systems with tests, clear limitations, and reproducible results.
 - Study low-level computing and engineering history to understand the foundations of modern systems.
-- Explore how engineering decisions and economic incentives shape the systems we use.
+- Develop the judgment to make sound technical decisions, take responsibility for them, and help others build on the work.
 
 ---
 
