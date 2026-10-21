@@ -7,9 +7,9 @@
 
 `root@hisrootness:~#`
 
-**Computer Science · Machine Learning · Systems · Economics · Governance**
+**Computer Science · Machine Learning · Systems · Economics**
 
-[GitHub](https://github.com/AbleTechLab) · [LinkedIn](https://www.linkedin.com/in/azamat-hojiakbarov-a32413394) · [Kaggle](https://www.kaggle.com/azamath1) · [LeetCode](https://leetcode.com/u/AbleTech/) · [Telegram](https://t.me/Python_Able)
+[GitHub](https://github.com/hisrootness) · [LinkedIn](https://www.linkedin.com/in/azamat-hojiakbarov-a32413394) · [Kaggle](https://www.kaggle.com/azamath1) · [LeetCode](https://leetcode.com/u/AbleTech/) · [Telegram](https://t.me/Python_Able)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I work with Python, machine learning, data science, and software engineering. I also care about what happens beneath the abstractions: algorithms, operating systems, programming languages, computer architecture, and the people who made today's computing possible.
 
-My interests extend to economics, political institutions, and governance. Good systems—technical or institutional—demand clear rules, deliberate trade-offs, and accountability.
+I am also interested in economics, especially how incentives, constraints, and trade-offs influence complex systems.
 
 **The title is a joke. The respect for the craft isn't.**
 
@@ -30,7 +30,7 @@ My interests extend to economics, political institutions, and governance. Good s
 - **Progress without amnesia.** Advance the field without dismissing the fundamentals or the work of earlier generations.
 - **Respect maintainers.** Software survives because people keep fixing, reviewing, documenting, and improving it.
 - **Freedom to inspect, question, and build.** Open source matters as a practice of learning and responsibility, not just as a label.
-- **Leadership carries responsibility.** Authority without technical understanding or accountability is not an engineering virtue.
+- **Take responsibility for what you build.** Understand the trade-offs, limitations, and consequences of engineering decisions.
 
 ## Standing on the shoulders of engineers
 
@@ -44,7 +44,7 @@ And the many mathematicians, programmers, researchers, and maintainers whose nam
 
 ## Selected projects
 
-### [YouPilot — AI website builder](https://github.com/AbleTechLab/Ai_web_sites_constructor)
+### [YouPilot — AI website builder](https://github.com/hisrootness/Ai_web_sites_constructor)
 
 A Django-based website-generation MVP that turns a business brief into a structured, editable site with publication and code-export workflows.
 
@@ -54,7 +54,7 @@ A Django-based website-generation MVP that turns a business brief into a structu
 
 `Python` `Django` `PostgreSQL` `Pydantic` `pytest`
 
-### [Kaggle Mobile](https://github.com/AbleTechLab/Kaggle_mobile)
+### [Kaggle Mobile](https://github.com/hisrootness/Kaggle_mobile)
 
 An Android client and reference project exploring mobile access to Kaggle-oriented workflows.
 
@@ -64,7 +64,7 @@ An Android client and reference project exploring mobile access to Kaggle-orient
 
 `Android` `Python` `Mobile UX` `Testing`
 
-### [Bot Manager — Telegram automation platform](https://github.com/AbleTechLab/MagicWorlds_TG)
+### [Bot Manager — Telegram automation platform](https://github.com/hisrootness/MagicWorlds_TG)
 
 A multi-service backend for managing channels, publications, parsers, and background processes.
 
@@ -74,7 +74,7 @@ A multi-service backend for managing channels, publications, parsers, and backgr
 
 `Python` `Django` `Telethon` `PostgreSQL` `Redis` `Docker`
 
-### [Automation workflows](https://github.com/AbleTechLab/n8n_projects)
+### [Automation workflows](https://github.com/hisrootness/n8n_projects)
 
 Reusable integration and automation experiments using APIs, webhooks, and n8n.
 
@@ -91,14 +91,14 @@ Reusable integration and automation experiments using APIs, webhooks, and n8n.
 | **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
 | **Systems and foundations** | Linux / Unix, C, Assembly, algorithms, computer architecture, operating systems |
 | **Engineering** | Git, Docker, testing, CI, deployment, reproducibility |
-| **Beyond software** | Economics, institutions, governance, history of computing |
+| **Beyond software** | Economics, history of computing, engineering history |
 
 ## Current direction
 
 - Deepen my work in machine learning and computer science, including model architecture and training fundamentals.
 - Build and document practical software systems with tests, clear limitations, and reproducible results.
-- Study low-level computing and the history of engineering—not as nostalgia, but as foundations worth understanding.
-- Explore how technical systems, economic incentives, and institutions shape one another.
+- Study low-level computing and engineering history to understand the foundations of modern systems.
+- Explore how engineering decisions and economic incentives shape the systems we use.
 
 ---
 
