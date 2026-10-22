@@ -2,7 +2,7 @@
 
 # His Rootness
 
-**The Last Benevolent Tyrant**  
+**The Last Benevolent Dictator**  
 *Keeper of the Source · The Last Free Sovereign*
 
 `root@hisrootness:~#`
